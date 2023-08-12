@@ -1,4 +1,4 @@
-# Quantum Espresso on Google Colaboratory (Colab)
+# Quantum Espresso on Google Colaboratory (Colab) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sedaoturak/Quantum_Espresso_Colab/blob/master/Quantum_Espresso_Colab.ipynb)
 
 <p align="center">
   <img src="https://github.com/sedaoturak/Quantum_Espresso_Colab/blob/main/pic.png" width=350/>
